@@ -23,7 +23,7 @@ package goleak
 import (
 	"fmt"
 
-	"go.uber.org/goleak/internal/stack"
+	"github.com/Prots/goleak/intern/stack"
 )
 
 // TestingT is the minimal subset of testing.TB that we use.

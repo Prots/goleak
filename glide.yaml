@@ -1,4 +1,4 @@
-package: go.uber.org/goleak
+package: github.com/Prots/goleak
 import: []
 testImport:
 - package: github.com/stretchr/testify
